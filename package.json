@@ -1,0 +1,28 @@
+{
+  "name": "build-mario-with-phaser",
+  "version": "1.0.0",
+  "description": "Building a Mario clone with Phaser.",
+  "scripts": {
+    "start": "vite --host",
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joshuacurtiss/build-mario-with-phaser.git"
+  },
+  "author": "Josh Curtiss <josh@curtiss.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuacurtiss/build-mario-with-phaser/issues"
+  },
+  "homepage": "https://github.com/joshuacurtiss/build-mario-with-phaser#readme",
+  "devDependencies": {
+    "typescript": "4.9.5",
+    "vite": "5.0.2"
+  },
+  "dependencies": {
+    "phaser": "3.70.0"
+  }
+}
